@@ -13,4 +13,4 @@ Standard Delivery: If your delivery address is within Dhaka city, products will 
 Easy Replacement: We provide great customer experience each time you shop with your UNION GROCERY. If you are not satisfied with your purchase, we ensure ‘Replacement Guarantee’. We will replace your purchased product if the product has any defect by its manufacturer or if the product is not the same one you ordered.
 
 
-Stay in Touch: We would like to receive your feedback about our product, service and site. Keep in contact with us and feel free to express any opinion, viewpoint, suggestion or comment that you might have. You can call us at our hotline: 09236-102567 (9am to 11pm); contact us via our official Facebook page: http://www.facebook.com/UNIONGROCERY
+Stay in Touch: We would like to receive your feedback about our product, service and site. Keep in contact with us and feel free to express any opinion, viewpoint, suggestion or comment that you might have. You can call us at our hotline: 09236-102567 (9am to 11pm); contact us via our official email: union@gmail.com
