@@ -1,0 +1,16 @@
+.card,
+.card-footer {
+  border-radius: 10px;
+  background-color: #FFF0F5;
+  border: none;
+}
+.card-footer {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+.card img {
+  padding: 10px;
+}
+.card:hover {
+  box-shadow: 3px 3px 10px 10px rgba(95, 147, 165, 0.25);
+}
