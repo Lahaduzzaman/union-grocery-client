@@ -7,7 +7,7 @@ const Header = () => {
     const [loggedInUser, setLoggedInUser] = useContext(UserContext);
     return (
         <>
-            <nav className="navbar navbar-expand-md sticky-top navbar-light" style={{ backgroundColor: '#FFE4C4' }}>
+            <nav className="navbar navbar-expand-md sticky-top navbar-light" style={{ backgroundColor: '#0dcaf0' }}>
                 <div className="container-fluid">
                     <Link className="navbar-brand font-weight-bold" to="/">UNION GROCERY</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
